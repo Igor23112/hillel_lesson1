@@ -11,7 +11,3 @@ elif operation == "/":
         print("Error: division by zero")
     else:
         print(int(num1 / num2))
-
-
-
-
