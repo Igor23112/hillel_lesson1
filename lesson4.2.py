@@ -1,4 +1,4 @@
-lst = [1, 3, 5]
+lst = [0, 1, 7, 2, 4, 8]
 if not lst:
     result = 0
 else:
