@@ -1,7 +1,4 @@
-x = int(input("Enter a number: "))
-print(x // 1000)
-print(x // 100 % 10)
-print(x // 10 % 10)
-print(x % 10)
-
-
+my_list = [1, 0, 2, 0, 3, 0]
+zeros_list = [x for x in my_list if x == 0]
+print(zeros_list)
+# Выведет: [0, 0, 0]
